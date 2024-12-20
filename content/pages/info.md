@@ -160,7 +160,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Netlify
+        label: SQL
       - type: Label
         label: C++
       - type: Label
