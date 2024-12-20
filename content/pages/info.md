@@ -160,8 +160,6 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
-      - type: Label
         label: Netlify
       - type: Label
         label: Pancakes
