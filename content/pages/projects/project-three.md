@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Maze Solver Using BFS
 colors: colors-a
 date: '2023-11-13'
-client: Awesome client
+client: Me
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
