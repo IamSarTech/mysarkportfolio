@@ -14,10 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey I’m Sarthak and I am a Developer.  I’ve been born and raised in
-      Moradabad, Uttar Pradesh, but currently I’m living in Chennai.  I’m
-      currently at University student at SRM Chennai pursuing my B.Tech. My
-      Hobbies are swimming, coding and Formula 1
+      ## My name is Sarthak, and I am a Developer. I was born and raised in
+      Moradabad, Uttar Pradesh, but I currently reside in Chennai. I am a
+      university student at SRM Chennai, pursuing a B.Tech. in Computer Science.
+      In my spare time, I enjoy swimming, coding, and following Formula 1.
+
+
+
+
+
 
     media:
       type: ImageBlock
