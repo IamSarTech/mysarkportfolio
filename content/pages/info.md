@@ -79,7 +79,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://x.com/iamsark91?s=21'
         styles:
           self:
             textAlign: left
