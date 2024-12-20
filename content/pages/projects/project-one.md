@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Smart Navigation Robot Car
 colors: colors-a
-date: '2024-04-23'
+date: '2024-04-16'
 client: ''
 description: >-
   The Smart Navigation Robot Car is an IoT-driven project designed to
