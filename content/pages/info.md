@@ -95,7 +95,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: '1154963323322896455'
+            url: disoc
         styles:
           self:
             textAlign: left
