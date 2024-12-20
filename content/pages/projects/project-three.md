@@ -6,9 +6,9 @@ date: '2023-11-13'
 client: Me
 description: >-
   The Maze Solver project utilizes the Breadth-First Search (BFS) algorithm to
-  find the shortest path through a grid-based maze. Implemented in Python, the
-  program represents the maze as a graph where each cell is a node and adjacent
-  cells are connected by edges.
+  find the shortest path through a grid-based maze. This program represents the
+  maze as a graph where each cell is a node and adjacent cells are connected by
+  edges.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
