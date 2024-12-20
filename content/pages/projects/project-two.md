@@ -5,9 +5,9 @@ colors: colors-a
 date: '2024-11-13'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Developed a dynamic Music Library web application using React for the frontend
+  and MongoDB for the backend database. The project enables users to browse,
+  search, and manage their music collections effortlessly. 
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
