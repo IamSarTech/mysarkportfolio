@@ -223,18 +223,23 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024**
 
-          * ba computer sciense at a semi fancy school
+          *   full - stack certificate at UDemy
 
-          **2014**
+          **2022 - 2026**
 
-          * react certificate somewhere
+          *   Pursuing my B.Tech at SRM
 
-          **2011**
+          **2022**
 
-          * my highschool
+          *   Completed my 12th at PNS, Dhampur
+
+          **2020**
+
+          *   completed my 10th at PNS, Dhampur
+
         styles:
           self:
             textAlign: left
