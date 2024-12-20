@@ -103,7 +103,8 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: >-
+              https://www.instagram.com/sark_parkk/profilecard/?igsh=aDBxYWRneWU5NzNj
         styles:
           self:
             textAlign: left
