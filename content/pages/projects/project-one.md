@@ -5,4 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: ''
 description: ''
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
