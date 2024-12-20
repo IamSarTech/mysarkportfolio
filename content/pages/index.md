@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, and my name is sarthak, and known with other bunch of
+      HI! I’m Sarthak, but you can call me sark and i known with other bunch of
       other impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
