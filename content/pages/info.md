@@ -71,7 +71,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/IamSarTech'
         styles:
           self:
             textAlign: left
