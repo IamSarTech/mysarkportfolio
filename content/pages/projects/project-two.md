@@ -10,7 +10,7 @@ description: >-
   search, and manage their music collections effortlessly. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/WhatsApp Image 2024-11-09 at 03.25.02.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
