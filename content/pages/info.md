@@ -198,7 +198,7 @@ sections:
 
           *   React Developer
 
-          **2018-2021**
+          **2024**
 
           *   Volunteered at Centre For Social Change, Noida
 
