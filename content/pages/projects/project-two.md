@@ -21,7 +21,7 @@ media:
 ---
 The **Music Library** project is a web application designed to provide users with an intuitive platform to manage and explore their music collections. Built with **React** on the frontend, it offers a modern, responsive user interface, ensuring seamless navigation and interaction. The application is tailored to meet the needs of music enthusiasts by providing features such as music search, playlist creation, and track categorization.
 
-The project leverages **React** for a dynamic and interactive user experience, combined with **MongoDB** for robust and scalable data storage. React’s component-based architecture enabled the creation of reusable and efficient components, enhancing both performance and development efficiency. MongoDB’s document-oriented approach was instrumental in organizing and managing diverse music data, such as artists, albums, and genres, effectively.
+<div style="text-align: left">The project leverages **React** for a dynamic and interactive user experience, combined with **MongoDB** for robust and scalable data storage. React’s component-based architecture enabled the creation of reusable and efficient components, enhancing both performance and development efficiency. MongoDB’s document-oriented approach was instrumental in organizing and managing diverse music data, such as artists, albums, and genres, effectively.</div>
 
 > “Building the Music Library taught me that the harmony between code and design is as important as the rhythm in a great song.”
 
