@@ -154,7 +154,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: CSS Intermediate
       - type: Label
         label: React-Native
       - type: Label
