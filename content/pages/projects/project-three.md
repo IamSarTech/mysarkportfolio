@@ -1,29 +1,41 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Maze Solver Using BFS
 colors: colors-a
-date: '2022-01-22'
-client: Awesome client
+date: '2023-11-13'
+client: Me
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  The Maze Solver project utilizes the Breadth-First Search (BFS) algorithm to
+  find the shortest path through a grid-based maze. This program represents the
+  maze as a graph where each cell is a node and adjacent cells are connected by
+  edges.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/maze.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/maze.png
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+### Maze Solver Overview
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The **Maze Solver** is a Python-based application designed to find the shortest path through a grid-based maze using the **Breadth-First Search (BFS)** algorithm. The maze is represented as a two-dimensional grid where cells can either be passable or blocked. Starting from an initial point, the solver navigates through the maze to reach a specified endpoint, ensuring the path found is the shortest.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Algorithm Choice
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+The **Breadth-First Search** algorithm was chosen for its guaranteed ability to find the shortest path in an unweighted graph, making it ideal for this project. The maze is treated as a graph where each cell is a node, and valid moves between cells form edges. BFS explores all possible moves from the starting point layer by layer, systematically checking each level of nodes before proceeding deeper.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+### Implementation Details
+
+The implementation involves queue-based traversal, where each cell is dequeued, and its unvisited neighbors are enqueued. A visited set ensures no cell is revisited, optimizing the search process. The algorithm also records the path to each cell, enabling reconstruction of the shortest path once the endpoint is reached. Edge cases like mazes with no solution or multiple paths are handled gracefully.
+
+### User Experience
+
+The solver visualizes the maze, highlighting the explored cells and the final path, providing users with an intuitive understanding of how BFS works. Input flexibility allows users to create custom mazes or use predefined examples. This interactive approach enhances both engagement and learning, making the project a practical tool for algorithm visualization.
+
+### Learning Outcomes
+
+Developing the Maze Solver reinforced my understanding of graph traversal algorithms and their practical applications. It honed my skills in data structures such as queues and sets, as well as debugging and optimizing search-based solutions. This project demonstrates my ability to solve complex problems efficiently while creating educational and user-friendly software.
