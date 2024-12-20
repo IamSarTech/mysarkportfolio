@@ -9,6 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Picture1.jpg
   altText: Smart Navigation Robot Car
-  caption: ''
+  caption: Smart Navigation Robot Car
   elementId: ''
 ---
