@@ -87,7 +87,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'http://linkedin.com/in/sarthak-sisodia-13b5ab272'
         styles:
           self:
             textAlign: left
