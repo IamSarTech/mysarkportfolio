@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey I’m Sarthak and I am a Developer.  I’ve been born and raised in
+      Moradabad, Uttar Pradesh, but currently I’m living in Chennai.  I’m
+      currently at University student at SRM Chennai pursuing my B.Tech. My
+      Hobbies are swimming, coding and Formula 1
+
     media:
       type: ImageBlock
       url: /images/about.jpg
