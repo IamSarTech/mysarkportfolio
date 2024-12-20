@@ -5,9 +5,10 @@ colors: colors-a
 date: '2023-11-13'
 client: Me
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The Maze Solver project utilizes the Breadth-First Search (BFS) algorithm to
+  find the shortest path through a grid-based maze. Implemented in Python, the
+  program represents the maze as a graph where each cell is a node and adjacent
+  cells are connected by edges.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
