@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      HI! I’m Sarthak, but you can call me sark and i known with other bunch of
-      other impressive titles and buzz words.
+      Hello there! I’m Sarthak, but you can call me Sark. I’ve also been known
+      by a few other impressive titles and buzzwords.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
