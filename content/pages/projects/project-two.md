@@ -29,6 +29,4 @@ The Music Library application includes essential features such as user authentic
 
 A clean and responsive UI design was implemented to cater to users across devices, from desktops to mobile phones. Thoughtful design principles were followed, focusing on usability and accessibility. Features like real-time feedback, auto-suggestions in search, and drag-and-drop playlist creation enhance the user experience, making the platform both functional and enjoyable.
 
-###
-
 This project provided a hands-on opportunity to explore full-stack development with React and MongoDB. It deepened my understanding of frontend-backend integration and highlighted the importance of designing for scalability and performance. The Music Library application not only showcases my technical skills but also reflects my ability to create user-centric solutions that blend functionality with aesthetics.
