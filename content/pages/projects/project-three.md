@@ -19,7 +19,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Solid Navy Blue Concrete Wall.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
