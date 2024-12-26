@@ -18,6 +18,13 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 The **Music Library** project is a web application designed to provide users with an intuitive platform to manage and explore their music collections. Built with **React** on the frontend, it offers a modern, responsive user interface, ensuring seamless navigation and interaction. The application is tailored to meet the needs of music enthusiasts by providing features such as music search, playlist creation, and track categorization.
 
