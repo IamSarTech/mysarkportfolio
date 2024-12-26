@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hello there! I’m Sarthak, but you can call me Sark. I’ve also been known
-      by a few other impressive titles and buzzwords.
+      Hello there! I’m Sarthak, but you can call me Sark. I’ve been coding for
+      past 2 years.
     subtitle: >-
       Please find below my professional information, which I am sharing with you
       to demonstrate my dedication and accomplishments over the past few years.
