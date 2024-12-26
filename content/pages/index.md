@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/grey.png
+  url: /images/Solid Navy Blue Concrete Wall.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
