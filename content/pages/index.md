@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/Solid Navy Blue Concrete Wall.avif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hello there! I’m Sarthak, but you can call me Sark. I’ve also been known
-      by a few other impressive titles and buzzwords.
+      Hello there! I’m Sarthak, but you can call me Sark. I’ve been coding for
+      past 2 years.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Please find below my professional information, which I am sharing with you
+      to demonstrate my dedication and accomplishments over the past few years.
+      I trust that this information will impress you and provide you with a
+      comprehensive understanding of my qualifications and expertise.
     styles:
       self:
         height: auto

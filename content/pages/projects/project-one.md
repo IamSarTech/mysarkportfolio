@@ -21,6 +21,13 @@ media:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+backgroundImage:
+  type: BackgroundImage
+  url: /images/Solid Navy Blue Concrete Wall.avif
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 ### Smart Navigation Robot Car Overview
 
